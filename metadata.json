@@ -1,0 +1,7 @@
+{
+  "name": "Voice Assistant AI",
+  "description": "An intelligent voice assistant that listens to your speech, transcribes it, and provides thoughtful responses using a powerful AI model. Engage in natural conversation and get instant answers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
